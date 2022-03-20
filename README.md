@@ -13,7 +13,7 @@ You will be prompted to enter your instructions after seeing below text lines:
  
  Commands:
  
- 1. PLACE - this places the robot at a starting point in an X-Y plane, 5x5 units in dimension.
+ 1. PLACE - this places the robot at a starting point in an X-Y plane which is 5x5 units in dimension.
  If PLACE command is not invoked, it is assumed that initial position is 0,0,NORTH
  
  USAGE: PLACE <x-coordinate>,<y-coordinate>,<DIRECTION>
